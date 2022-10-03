@@ -1,0 +1,45 @@
+.baniere{
+    width: 800px;
+    height: 200px;
+}
+#carrak {
+    width: 300px;
+}
+body{
+    background-image: linear-gradient(to top, #CCDAE0, #EDF2F4);
+}
+h1{
+    color: #EF233C;
+}
+h3{
+    color: #2B2D42;
+}
+.article{
+    border: solid 1px;
+    text-align: center;
+}
+.article p, .article h3{
+    text-align: left;
+}
+footer{
+    text-align: end;
+}
+ul{
+    list-style: none;
+}
+a{
+    color: #D90429;
+}
+a:hover{
+    color: #2B2D42;
+}
+a:visited{
+    color: grey;
+}
+img{
+    border: 2px solid #8D99AE;
+    text-align: center;
+}
+header{
+    text-align: center;
+}
