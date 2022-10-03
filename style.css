@@ -6,7 +6,7 @@
     width: 300px;
 }
 body{
-    background-image: linear-gradient(to top, #CCDAE0, #EDF2F4);
+    background-image: radial-gradient(circle at top, #CCDAE0, #EDF2F4);
 }
 h1{
     color: #EF233C;
@@ -16,10 +16,9 @@ h3{
 }
 .article{
     border: solid 1px;
-    text-align: center;
 }
-.article p, .article h3{
-    text-align: left;
+.article img{
+    border: 2px solid #8D99AE;
 }
 footer{
     text-align: end;
@@ -36,10 +35,9 @@ a:hover{
 a:visited{
     color: grey;
 }
-img{
-    border: 2px solid #8D99AE;
+header{
     text-align: center;
 }
-header{
+.centered{
     text-align: center;
 }
